@@ -1,4 +1,4 @@
-'L1' w1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 w31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 w
+(0,0,0)L1' w1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 w31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 w
 ww1 w.w ww ww w.wfww"Fałszywe pułapki"fwwfw.w ww w.wfww"Pułapki!!!"fwwfw.w ww ww ww ww ww ww ww ww ww ww ww w.wfwwfwwfwwfwwfw.w ww w.w w.wfwwfwwfw.w ww ww w.wfwwfw.w ww ww w.wfwwfw.w w.wfwwfw.w w.wfwwfw.w w.wfwwfw.w ww w.wfwwfwwfw.w ww w
 2 w w.wfwwffffwwfwwffffwwfwwfwwfwwfwwfwwfwwfwwfwwfwwfwwfwwffffffw  w wfffwwfwwfwwfffw   wffw wffw wffw wffw w.wffffwwfw w
 3 w wfw.w wfffw.w ww wfffw.w ww wfw.w ww ww ww ww wfw.w ww ww wfffffw  w wffffw.w ww wffw w.wfwwfddfwwfwwfddfwwfwwfddfwwfwwfddfwwfwwffffffwwb w
@@ -53,7 +53,7 @@ ww31 w.w ww ww ww ww ww ww wwgwwgww ww ww ww wwgwwgww ww ww wfw.w ww ww ww ww ww
 52 w          wfA w          wfw  wfdddffw.w ww ww w    dd ww ww wfw.w                      w
 53 w          wfA w          wfw  wfwwwffw   w       wfw                      w
 54 w         nvA fA nnvA wwww   w.wfw    nv fnnv  ww ww wfw   w       wfw                      w
-55 w        fA fA fA fA fA wwfS wwffwwfwwfwwfwwfwvvfffwvv.wfwwfwwffwwfwwfA wwfA wwfA wwfA wwfA wwfA w  w.wffwwfwwfw                    w
+55 w        fA fA fA fA fA wwfA wwffwwfwwfwwfwwfwvvfffwvv.wfwwfwwffwwfwwfA wwfA wwfA wwfA wwfA wwfA w  w.wffwwfwwfw                    w
 56 w         nnnnvA fA nnnvA ww ww ww wfw.w ww wfw.w nnnnv fnnnv ww ww wfffw.w ww w.w wfA fA fA wwfwwfffssss fw                    w
 57 w          w.wwfA w    ww   ww   w.wvvfw   wfffw  w ww ww ww ww ww wffffw                    w
 58 w          wfA w          wfw w.wfwwffffw  w      ww ww ww ww                     w
@@ -82,10 +82,10 @@ ww1 w.w ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww 
 20 w  wfd      wfnvv nnnv   w.wfwwnvvvv nnnvv wwfwwfwwfwwfwfwwfwwfwwfd     w wfffwwfwwffwwfwwffffffwwfwwfwwffw            w
 21 w  wfw    w.wfwwfwwfwfw   wnvv nnnvv fwvvvvv"🍄"fwvvvvv"🍄"fwvvvvv"🍄"fwvvvvvfwwfw.w ww wfw     w nnnnv fnnnv ww ww ww ww ww wfffffw.w ww ww gQ             w
 22 w  wfw    w'Świątynia'fffdfwwfddfwwffdff"🍄"ff"🍄"fffw  dfw     w  wfw      ww ww ww ww ww    gQ gQ            w
-23 w.wfE wwfE dfw w.wfwwfwwfw'Koboldów'fffwfw.w ww ww wnnvv nnvv f"🍄"f"🍄"f"🍄"fffw  wfw     w  wfwwfwwf                         w
-24 w"Dzi"fE "kusi"fE wfwwffffwwfwwfwwffw   wfnnvvvv nnvv wvvvvvfwvvvvvfwvvvvvfwvvvvvfw.wfwwfwwffd     w  wovvv  w.w                          w
-25 wfE fE wfw.w wfffw.w ww"N" w.wfnnvv nnv   ww ww dfw.w ww ww ww wfw.w ww ww      w  w  w                          w
-26 wfE fE wfw ww  ww w.wfwwfwffnnvvvv nnv    wfwwfwwfwwfwwffw        w  ww ww                           w
+23 w.wfA wwfA dfw w.wfwwfwwfw'Koboldów'fffwfw.w ww ww wnnvv nnvv f"🍄"f"🍄"f"🍄"fffw  wfw     w  wfwwfwwf                         w
+24 w"Dzi"fA "kusi"fA wfwwffffwwfwwfwwffw   wfnnvvvv nnvv wvvvvvfwvvvvvfwvvvvvfwvvvvvfw.wfwwfwwffd     w  wovvv  w.w                          w
+25 wfA fA wfw.w wfffw.w ww"N" w.wfnnvv nnv   ww ww dfw.w ww ww ww wfw.w ww ww      w  w  w                          w
+26 wfA fA wfw ww  ww w.wfwwfwffnnvvvv nnv    wfwwfwwfwwfwwffw        w  ww ww                           w
 27 w.wfwwfdfw  sss  wffdf"Głowa"ffwfwwfwwfwwffd.w ww wfffw        w                              w
 28 wffw.w     wffw.w ww ww wfw.w ww wfw.w   ww wffwwf       w                              w
 29 wf"Dziwne napisy"fw     ww ww  w.wfwwfddfw  wfw    wfff       w                              w
@@ -109,7 +109,7 @@ ww31 w.wfwwfwwfwwfw.w ww ww ww ww ww ww ww ww ww ww wfw.w ww ww w.wfwwfwwfw.w ww
 47 wfffw.wfwwfw  wffw.w ww wffw.w ww wffw.w ww wffw         w             w.wwvvvvvv.wwvvvvvvffwvvvvvv.wwwvvvvvvfw              w
 48 w.w ww wfffw  ww ww   ww ww   ww wfw  ww ww   wfw      w             wfwwvvffw              w
 49 w  wfw.w ww         w.wfwwfwwffwwfwwfnnv    wfwwfw.wf    w             nnnnv fnnnv               w
-50 w w.wffwwfw         wffw.w ww wfffw   ww wff    w              wfw               w
+50 w w.wffwwfw         wff ww wfffw   ww wff    w              wfw               w
 51 w wfffwwfwwfw       ww    nnnnv ffwwfwwfwwfwwffw.w     w              wfw               w
 52 w wfffw.w ww             ww wfw.w ww ww ww wfw     w              wfw               w
 53 w nnnnv fnnnv                wfw    wfw.wfwwfw   w              wfw               w
@@ -364,4 +364,4 @@ ww31 w.w ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww
 58 w                              w                              w
 59 w                              w                              w
 60 w                              w                              w
-ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww(61,40,2)
+ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww(11,42,0)
