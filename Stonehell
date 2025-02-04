@@ -230,30 +230,29 @@ ww31 w.w ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww
 38 w                              w    wt b fwwfwwfw                     w38 w
 39 w                              w    wt ft w.w ww                      w39 w
 40 w                              w    ww wfw.w                        w40 w
-41 w                              w     wfw                        w41 w
-42 w                              w     wfw      nv nnnv                 w42 w
-43 w                              w   nv wwffwwfnnv    nv nnnv                  w43 w
-44 w                              w ggfwvvvvvfafvvA fwvvvvvfw  nv nvv wwfwwfw                w44 w
-45 w                              gfffwvvvvvffvvA fwvvvvvfwwfwwffdfffw           ggg  w45 w
-46 w                              gggfwvvvvvffvvA fwvvvvvfw.w ww nnnnv nnvv wwwwffw       gg  gfg  w46 w
-47 w                              w   nnnnv wvvvvvfffwvvvvvnnnv    nnnnv nnv ww    w.wfwwfw  gfggfffg w47 w
-48 w                              w    wfwvvvvvfwvvvvvfw     nnnnv nnv    wffw gfffgfffg w48 w
-49 w                              w    ww  ww       wfwwfwwfwwfddfwwfwwfggg  gfffgw49 w
-50 w                              w     sss        wfw.w ww ww ww ww ww      gsss sss g w50 w
-51 w                              w             wfw w.wfwwf nv wwfwwfnnv    gwffwg w51 w
-52 w                              w     w.wfwwfwwfwwfwwfddfwwfwwffwwfdfb  wffffw  w.wtvv wwfdvvvfddvvvfdvvv.wfwwtvv w52 w
-53 w                              w w.wfwwfwwfwwffw.w ww ww ww wfw.w ww ww ww wff wffffw  wffffffw53 w
-54 w                              w wfff fw   w.wfddfwwfw   ww ww  nnnnv ffnnnv   w.wfwwfdvvvffdvvv.wfwwfw54 w
-55 w                              w wfffssssvvvv  w   wfffwwfwwfwwfw  w.wfwwfdvvvffdvvv.wfwwfdv.wfdvffffffw55 w
-56 w                              w wfffffw   wfffw.w ww wfw  wffffffw.w w.wfwwfdvvvffdvvv.wfwwfw56 w
-57 w                              w ww ww wfw.w ww    wfw.w ww   wsss w  w.dvfwwfdvvvffdvvv.wfwwfw wffffffw57 w
-58 w                              w   wfw   w.wfwwffwwfw  w.wffw  wtvvv ffffwwwwtvvv w ww w.wfffwwfw.w w58 w
-59 w                              w   wfwwfwwfwwfdffffwwfwwss ffd.wfwwfwwfwwfffwwffwwfwwfffffw w59 w
-60 w                              w   ww ww ww ww wffffw.w ww wffw.w ww ww ww ww ww ww ww ww ww nnnnv ffnnnv  w60 w
+41 w                  wwww wwww           w     wfw                        w41 w
+42 w    wwww wwww    wwww     wwww wwww wwww wwww wwwwssv fw     gQ  gg w     wfw      nv nnnv                 w42 w
+43 w    wffw.ww wwfwwfwfw.wfwwfwwfwwfdfffffdfw wwww wwww  gQ gQ  gg w   nv wwffwwfnnv    nv nnnv                  w43 w
+44 w    wffd.w.wfffwfwfw.wfwwfwwfwfB fB fB ssvB fw.w  wffw gQ gQ  gg w ggfwvvvvvfafvvA fwvvvvvfw  nv nvv wwfwwfw                w44 w
+45 w  www wwfwwfwwfdfddfwwfddffdfffwfB fB fB fB fwwfwwfdvvvffgwwvvvvvvvfwwvvvvvvvfgffggfffwvvvvvffvvA fwvvvvvfwwfwwffdfffw           ggg  w45 w
+46 w  www fffwfw.wfddfwwfwfd.wfwwfwwfwfB fB fB fB fwwwwffffgwwwwvvvvvvvfwwwwvvvvvvvfgffggggfwvvvvvffvvA fwvvvvvfw.w ww nnnnv nnvv wwwwffw       gg  gfg  w46 w
+47 w   wfffwfwfffwfwfffwfB fB fB ssvB fw ww wffw gQ gQ  gg w   nnnnv wvvvvvfffwvvvvvnnnv    nnnnv nnv ww    w.wfwwfw  gfggfffg w47 w
+48 w   ww w.wfwwfdfwfffwfwwfwwfwwfdfffffd.wfw ww ww  gQ gQ  g  w    wfwvvvvvfwvvvvvfw     nnnnv nnv    wffw gfffgfffg w48 w
+49 w    wffwfwfffw.w ww ww ww ww ww ww wwfwwssv fw     gQ  g  w    ww  ww       wfwwfwwfwwfddfwwfwwfggg  gfffgw49 w
+50 w    ww ww ww ww ww ww    wwww     ww ww       ggg w     sss        wfw.w ww ww ww ww ww      gsss sss g w50 w
+51 w  wwww wwww wwww   wwww wwww  w.wfwwfwwfwfww.wwwfww.wwwfww.wwwfd.w.wwfww.wwwssv fw      g   w             wfw w.wfwwf nv wwfwwfnnv    gwffwg w51 w
+52 w  wfffw.ww wwffdfwwfwfffwfwfffffw.w       gg  w     w.wfwwfwwfwwfwwfddfwwfwwffwwfdfb  wffffw  w.wtvv wwfdvvvfddvvvfdvvv.wfwwtvv w52 w
+53 w  wfffw.ww ffwffwfwwwfwwffwfwvvvvvfwvvvvvfwvvvvvssv wvvvvvfw        g  w w.wfwwfwwfwwffw.w ww ww ww wfw.w ww ww ww wff wffffw  wffffffw53 w
+54 w  wffwwwwfw ww w.dfwwfwwfw.wfddfffwfffffw           w wfff fw   w.wfddfwwfw   ww ww  nnnnv ffnnnv   w.wfwwfdvvvffdvvv.wfwwfw54 w
+55 w  ww wfw   wfffdfw.wfwwfwwfwfffffw           w wfffssssvvvv  w   wfffwwfwwfwwfw  w.wfwwfdvvvffdvvv.wfwwfdv.wfdvffffffw55 w
+56 w   w.dfwwfw.www  wfffwfdfffdfffssv fw           w wfffffw   wfffw.w ww wfw  wffffffw.w w.wfwwfdvvvffdvvv.wfwwfw56 w
+57 w wwww  wffssv wwfd.wfwwfwwffwwfww.dddfwwfw.wvvvvvffwvvvvvfwvvvvvfwvvvvvfw           w ww ww wfw.w ww    wfw.w ww   wsss w  w.dvfwwfdvvvffdvvv.wfwwfw wffffffw57 w
+58 w wfw.wfw.w w.dfw.w ww w.wfddfw.wfdd.wwfwwffwfwwfwwfwwfd.wfwwssv fw          w   wfw   w.wfwwffwwfw  w.wffw  wtvvv ffffwwwwtvvv w ww w.wfffwwfw.w w58 w
+59 w w.wvvfwwvvfwwffw  wffwffwffw.w ww ww ww ww ww ww           w   wfwwfwwfwwfdffffwwfwwss ffd.wfwwfwwfwwfffwwffwwfwwfffffw w59 w
+60 w w.wvvfw.wvvfw.wvvfw.wvvfw  ww ww ww ww ww ww                  w   ww ww ww ww wffffw.w ww wffw.w ww ww ww ww ww ww ww ww ww nnnnv ffnnnv  w60 w
 ww'L4' w.w1 ww2 ww3 ww4 ww5 ww6 ww7 ww8 ww9 ww10 ww11 ww12 ww13 ww14 ww15 ww16 ww17 ww18 ww19 ww20 ww21 ww22 ww23 ww24 ww25 ww26 ww27 ww28 ww29 ww30 w.w31 ww32 ww33 ww34 ww35 ww36 ww37 ww38 ww39 ww40 ww41 ww42 ww43 ww44 ww45 ww46 ww47 ww48 ww49 ww50 ww51 ww52 ww53 ww54 ww55 ww56 ww57 ww58 ww59 ww60 w.w' L4'
  w.w ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww w.w ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww w
- ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww w.wfw.w ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww
-                     wwz(0,1)'L5' w1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 w31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 w' L5'
+ ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww wwz(0,1)'L5' w1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 w31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 w' L5'
 ww1 w.w ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww w.w ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww w.w1 w
 2 w                              w                              w2 w
 3 w                              w                              w3 w
@@ -379,4 +378,4 @@ ww31 w.w ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww
 60 w                              w                              w60 w
 ww'L6' w.w1 ww2 ww3 ww4 ww5 ww6 ww7 ww8 ww9 ww10 ww11 ww12 ww13 ww14 ww15 ww16 ww17 ww18 ww19 ww20 ww21 ww22 ww23 ww24 ww25 ww26 ww27 ww28 ww29 ww30 w.w31 ww32 ww33 ww34 ww35 ww36 ww37 ww38 ww39 ww40 ww41 ww42 ww43 ww44 ww45 ww46 ww47 ww48 ww49 ww50 ww51 ww52 ww53 ww54 ww55 ww56 ww57 ww58 ww59 ww60 w.w' L6'
  w.w ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww w.w ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww w
- ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww wz(0,0)z(0,0)z(0,0)z(0,0)(52,49,3)
+ ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww ww wz(0,0)z(0,0)z(0,0)z(0,0)(62,24,3)
